@@ -1,0 +1,5 @@
+<Mod
+    name="Haptic Noita"
+    description="Let the game touch you"
+    request_no_api_restrictions="1"
+    />
